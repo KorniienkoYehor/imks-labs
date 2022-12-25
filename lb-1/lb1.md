@@ -58,7 +58,7 @@
 - **sheep-gain-from-food** : 10.
 - **wolf-reproduce** : 10.
 - **sheep-reproduce** : 1.
-![Рисунок 1](l-1-1.jpg)
+![Рисунок 1](lb-1-1.jpg)
 
 <table>
 <thead>
